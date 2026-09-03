@@ -4,8 +4,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 # ---------- STEP 1: Turn the text into a list of (x, y) points ----------
 
-LINE1 = "AFRAJ"
-LINE2 = "FAWAD" 
+LINE1 = "SHIMER LOVE"
+LINE2 = "HANFA" 
 
 FONT_SIZE = 90
 IMG_W, IMG_H = 1400, 300
